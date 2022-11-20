@@ -1,13 +1,13 @@
 Crimson
 Orange
-Green
+Teal
 Cyan
-Yellow
+Titian
 Ivory
 Khaki
 Coral
-Silver
+puce
 Fuchsia
 Gray
 Brown
-Red
+Pink
